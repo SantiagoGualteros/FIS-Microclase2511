@@ -18,3 +18,5 @@ En la radio, hay también un gallo
 Y el gallo corococo, y la gallina coo
 Y el pollito pío, el pollito pío
 El pollito pío, el pollito pío
+
+Solo pidieron 3 parrafos y un punto más.
