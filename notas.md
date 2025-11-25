@@ -1,22 +1,20 @@
-# Mis notas de control de versiones
-Este archivo contiene apuntes sobre la actividad práctica y se supone que este texto era de ejemplo, pero lo copiamos y lo pegamos.
+gIT ES PARA UN VERSIONAMIENTO LOCAL
 
-En la radio, hay un pollito
-En la radio, hay un pollito
-El pollito pío, el pollito pío
-El pollito pío, el pollito pío
-El pollito pío, el pollito pío
+GITHUB ES UN SISTEMA CENTRALIZADO
 
-En la radio, hay una gallina
-En la radio, hay una gallina
-Y la gallina coo, y el pollito pío
-Y el pollito pío, y el pollito pío
-Y el pollito pío, y el pollito pío
+gitignore son cosa que no se quiere copiar del repo
 
-En la radio, hay también un gallo
-En la radio, hay también un gallo
-Y el gallo corococo, y la gallina coo
-Y el pollito pío, el pollito pío
-El pollito pío, el pollito pío
+lo ideal es que los commits sean atómicos y que sean detallistas
 
-Solo pidieron 3 parrafos y un punto más.
+cómo se hace el merge y que conflictos pueden llegar a tener?
+
+git añade marcas para mostrar conflictos,
+
+con el control de versionamiento podemos volver a versiones pasadas y analizar los cambios que pudiron generar un error.
+
+
+github sirve para no tener que hacer miles de archivos con muchos nombre diferentes
+
+facilita el acceso 
+
+ofrece muchas herramientas para el control commo workflows
